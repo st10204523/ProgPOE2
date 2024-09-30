@@ -39,12 +39,12 @@ Once authenticated, you’ll be logged in and redirected to the main menu.
 ### Main Menu
 After logging in, you will be directed to the main menu where you can access the following options:
 
-Single Player: Play a solo game and aim for the best time.
-Multiplayer: Challenge friends or other players online.
-Leaderboard: View the highest points in each game mode.
-Game Share & Creation: Create your own games or download games created by other users.
-Settings: Change language preferences, toggle dark mode, and adjust other game settings.
-Help: View instructions on how to play the game.
+- Single Player: Play a solo game and aim for the best time.
+- Multiplayer: Challenge friends or other players online.
+- Leaderboard: View the highest points in each game mode.
+- Game Share & Creation: Create your own games or download games created by other users.
+- Settings: Change language preferences, toggle dark mode, and adjust other game settings.
+- Help: View instructions on how to play the game.
 
 ### Game Controls
 Tap to Match: Select items by tapping them to make matches.
@@ -71,7 +71,7 @@ Download Games: Access and play games created by other users to expand your game
 
 ### Settings
 In the Settings menu, you can:
-Change the language preference.
-Enable or disable dark mode.
-Turn on/off notifications. (Feature coming soon)
-Enable/disable biometric authorization. (Feature coming soon)
+- Change the language preference.
+- Enable or disable dark mode.
+- Turn on/off notifications. (Feature coming soon)
+- Enable/disable biometric authorization. (Feature coming soon)
