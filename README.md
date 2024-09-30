@@ -11,7 +11,7 @@
 - **Customizable Settings**: Change language preferences, enable dark mode, and more.
 - **Help Screen**: Get detailed instructions on how to play the game.
 
-## Planned Features
+## Features to be implemented
 The following features are planned for future implementation:
 - **Language Selection**: Allow users to select their preferred language from the settings.
 - **Notifications**: Provide users with updates and reminders related to the game.
