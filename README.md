@@ -11,12 +11,10 @@
 - **Customizable Settings**: Change language preferences, enable dark mode, and more.
 - **Help Screen**: Get detailed instructions on how to play the game.
 
-## Features to be implemented
-The following features are planned for future implementation:
-- **Language Selection**: Allow users to select their preferred language from the settings.
-- **Notifications**: Provide users with updates and reminders related to the game.
-- **Biometric Authentication**: Enable users to log in using fingerprint or facial recognition.
-- **Ads**: Integrate advertisements to support the game.
+## Prerequisites
+- Android Studio Arctic Fox or higher.
+- Retrofit2 for API calls.
+- Internet access for firebase
 
 ## Installation
 1. Clone the repository to your local machine:
@@ -75,3 +73,14 @@ In the Settings menu, you can:
 - Enable or disable dark mode.
 - Turn on/off notifications. (Feature coming soon)
 - Enable/disable biometric authorization. (Feature coming soon)
+
+## API
+Your own API
+
+## Future enhancements
+The following features are planned for future implementation:
+- **Language Selection**: Allow users to select their preferred language from the settings.
+- **Notifications**: Provide users with updates and reminders related to the game.
+- **Biometric Authentication**: Enable users to log in using fingerprint or facial recognition.
+- **Ads**: Integrate advertisements to support the game.
+
