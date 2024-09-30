@@ -83,4 +83,5 @@ The following features are planned for future implementation:
 - **Notifications**: Provide users with updates and reminders related to the game.
 - **Biometric Authentication**: Enable users to log in using fingerprint or facial recognition.
 - **Ads**: Integrate advertisements to support the game.
+- **Achievements**: Users are able to obtain achievements
 
